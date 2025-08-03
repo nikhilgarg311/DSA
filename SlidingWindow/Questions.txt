@@ -1,0 +1,67 @@
+
+Most Frequently Asked Sliding Window Questions in C++ (For Product-Based Companies)
+===================================================================================
+
+🔹 Fixed-Size Sliding Window
+
+1. Maximum Sum Subarray of Size K
+   - Problem: Find the maximum sum of any contiguous subarray of size k.
+   - Difficulty: Easy
+   - LeetCode: https://leetcode.com/problems/maximum-average-subarray-i/
+
+2. First Negative Number in Every Window of Size K
+   - Problem: For every window of size k, print the first negative number.
+   - Difficulty: Medium
+
+3. Count Occurrences of Anagrams
+   - Problem: Count how many substrings of s are anagrams of p.
+   - Difficulty: Medium
+   - LeetCode: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+🔹 Variable-Size Sliding Window (Two Pointers)
+
+4. Longest Substring Without Repeating Characters
+   - Problem: Find the length of the longest substring without repeating characters.
+   - Difficulty: Medium
+   - LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+5. Longest Substring with At Most K Distinct Characters
+   - Problem: Return the length of the longest substring with at most k distinct characters.
+   - Difficulty: Medium/Hard
+   - LeetCode: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+
+6. Minimum Size Subarray Sum
+   - Problem: Find the minimal length of a contiguous subarray for which the sum ≥ target.
+   - Difficulty: Medium
+   - LeetCode: https://leetcode.com/problems/minimum-size-subarray-sum/
+
+7. Fruit Into Baskets
+   - Problem: Pick fruits from trees with at most 2 types.
+   - Difficulty: Medium
+   - LeetCode: https://leetcode.com/problems/fruit-into-baskets/
+
+🔹 Advanced Sliding Window
+
+8. Longest Repeating Character Replacement
+   - Problem: Replace at most k characters to make the longest repeating character substring.
+   - Difficulty: Medium
+   - LeetCode: https://leetcode.com/problems/longest-repeating-character-replacement/
+
+9. Sliding Window Maximum
+   - Problem: Return the maximum in every window of size k.
+   - Difficulty: Hard
+   - LeetCode: https://leetcode.com/problems/sliding-window-maximum/
+
+10. Permutation in String
+    - Problem: Check if one string’s permutation is a substring of another.
+    - Difficulty: Medium
+    - LeetCode: https://leetcode.com/problems/permutation-in-string/
+
+Tips:
+-----
+- Start with fixed-size windows.
+- Move to variable-size windows with two pointers.
+- Practice using hash maps or frequency counters.
+- For maximum/minimum problems, try using deques for optimal performance.
+
+Happy Practicing!

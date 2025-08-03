@@ -1,0 +1,2 @@
+array block stores head of a linked list
+separate chaining

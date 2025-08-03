@@ -1,0 +1,5 @@
+
+
+
+linear probing
+quadratic probing
